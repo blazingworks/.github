@@ -1,4 +1,4 @@
-![BlazingWorks](../assets/banner.png)
+![BlazingWorks](https://raw.githubusercontent.com/blazingworks/.github/main/assets/banner.png)
 
 <div align="center">
 
