@@ -17,9 +17,9 @@
 
 ## Projects
 
--   [taiga](https://taigabot.net)
+-   [taiga](https://taigabot.net) - A Discord Bot allowing users to collect virtual trading cards (returning soon for 2.0)
+-   [Mond Framework](https://github.com/mondhq) - A modern Discord Bot Framework (in early development)
 -   axolotl creative _(soon)_
--   ??? _(soon)_
 -   ??? _(soon)_
 
 ## NodeJS Libraries
